@@ -3,7 +3,7 @@
   if(window.__SC__) return;
   window.__SC__ = true;
   
-  var API = 'https://script.google.com/macros/s/AKfycbzyvr7Rd3RvL7lDuFhYWR7KdhPh-msoAT-9MkQB0Q8msj_VeC__I2uE-_4JnbrfAzFaMA/exec';
+  var API = 'https://script.google.com/macros/s/AKfycbx8cHtxaSCxDCFBwT292dJnd2oMEGyrmD9u67_8qvrKNCpqu3VOVnGW7guPTrwKPLgSVA/exec';
   var CACHE_TIME = 3600000;
   
   function getProductId(){
